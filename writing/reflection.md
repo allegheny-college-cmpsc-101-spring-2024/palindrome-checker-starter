@@ -1,9 +1,16 @@
 # Palindrome Checking
 
-TODO: Delete all of the writing prompts and TODO markers from this file!
-NOT TODO: Generating responses with AI models is not permitted.
+TODO: Delete all of the writing prompts and TODO markers from this file.
+NB: Submitting AI-generated responses is not permitted.
 TODO: Make sure that all of your responses to these technical writing questions
-      have correct spelling, syntax, grammar, and formatting!
+have correct spelling, syntax, grammar, and formatting.
+
+Some of the questions below are related to imports. In addition to the book and
+the course materials notes, further references are linked below:
+
+- [whats-the-difference-between-a-module-and-package-in-python](https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-module-and-package-in-python)
+- [python-import-module-from-a-package](https://stackoverflow.com/questions/36515197/python-import-module-from-a-package)
+- [modules-and-packages-create-python-project](https://www.internalpointers.com/post/modules-and-packages-create-python-project)
 
 ## Add Your Name Here
 
